@@ -1,0 +1,202 @@
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\ApplicationInsights.config
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\roslyn\csc.exe
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\roslyn\System.Collections.Immutable.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\roslyn\vbc.exe
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\roslyn\VBCSCompiler.exe
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\roslyn\VBCSCompiler.exe.config
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\AccesoBolsaTrabajo.dll.config
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\AccesoBolsaTrabajo.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\AccesoBolsaTrabajo.pdb
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Antlr3.Runtime.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\EntityFramework.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\EntityFramework.SqlServer.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AI.Web.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AI.WindowsServer.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.ApplicationInsights.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Security.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Security.Google.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Web.Infrastructure.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Newtonsoft.Json.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Owin.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\System.Web.Helpers.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\System.Web.Mvc.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\System.Web.Optimization.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\System.Web.Razor.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\System.Web.WebPages.Deployment.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\System.Web.WebPages.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\System.Web.WebPages.Razor.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\WebGrease.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AI.Web.xml
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AI.WindowsServer.xml
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.ApplicationInsights.xml
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\System.Web.Helpers.xml
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\System.Web.Mvc.xml
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\System.Web.Optimization.xml
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\System.Web.Razor.xml
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\System.Web.WebPages.xml
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\System.Web.WebPages.Deployment.xml
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\System.Web.WebPages.Razor.xml
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Antlr3.Runtime.pdb
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Newtonsoft.Json.xml
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\EntityFramework.xml
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\EntityFramework.SqlServer.xml
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.xml
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Security.xml
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Security.Google.xml
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\System.Web.Helpers.resources.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\System.Web.Mvc.resources.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\System.Web.Optimization.resources.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\System.Web.Razor.resources.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\System.Web.WebPages.resources.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\EntityFramework.resources.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\EntityFramework.SqlServer.resources.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\Microsoft.Owin.resources.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\Microsoft.Owin.Security.resources.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\Microsoft.Owin.Security.Google.resources.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\obj\Debug\AccesoBolsaTrabajo.csprojResolveAssemblyReference.cache
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\obj\Debug\AccesoBolsaTrabajo.dll
+c:\users\damsa.rcortes\documents\visual studio 2015\Projects\AccesoBolsaTrabajo\AccesoBolsaTrabajo\obj\Debug\AccesoBolsaTrabajo.pdb
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\obj\Debug\AccesoBolsaTrabajo.csprojResolveAssemblyReference.cache
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\obj\Debug\AccesoBolsaTrabajo.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\obj\Debug\AccesoBolsaTrabajo.pdb
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\ApplicationInsights.config
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\roslyn\csc.exe
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\roslyn\vbc.exe
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\roslyn\VBCSCompiler.exe
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\AccesoBolsaTrabajo.dll.config
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\AccesoBolsaTrabajo.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\AccesoBolsaTrabajo.pdb
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Antlr3.Runtime.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\EntityFramework.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\EntityFramework.SqlServer.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AI.Web.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Security.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Newtonsoft.Json.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Owin.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\System.Web.Helpers.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\System.Web.Mvc.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\System.Web.Optimization.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\System.Web.Razor.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\System.Web.WebPages.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\System.Web.WebPages.Razor.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\WebGrease.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AI.Web.xml
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\System.Web.Helpers.xml
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\System.Web.Mvc.xml
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\System.Web.Optimization.xml
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\System.Web.Razor.xml
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\System.Web.WebPages.xml
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\System.Web.WebPages.Razor.xml
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Antlr3.Runtime.pdb
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Newtonsoft.Json.xml
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\EntityFramework.xml
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\EntityFramework.SqlServer.xml
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.xml
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Security.xml
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\System.Web.Helpers.resources.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\System.Web.Mvc.resources.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\System.Web.Optimization.resources.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\System.Web.Razor.resources.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\System.Web.WebPages.resources.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\EntityFramework.resources.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\Microsoft.Owin.resources.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\damsa.rcortes\Documents\GitHub\Login\AccesoBolsaTrabajo\AccesoBolsaTrabajo\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
