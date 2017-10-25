@@ -93,10 +93,10 @@ namespace AccesoBolsaTrabajo.Controllers
                 if (result.Succeeded)
                 {
                     System.Net.Mail.MailMessage m = new System.Net.Mail.MailMessage(
-                          new System.Net.Mail.MailAddress("diorelx@gamail.com", "Web Registration"),
+                          new System.Net.Mail.MailAddress("diorelx@gamail.com", "DAMSA Registro"),
                           new System.Net.Mail.MailAddress(user.Email));
-                    m.Subject = "Email confirmation";
-                    m.Body = string.Format("Dear {0}<BR/>Thank you for your registration, please click on the below link to complete your registration: <a href=\"{1}\" title=\"User Email Confirm\">{1}</a>", user.UserName, Url.Action("ConfirmEmail", "Account", new { Token = user.Id, Email = user.Email }, Request.Url.Scheme));
+                    m.Subject = "Confirmación  Email";
+                    m.Body = string.Format("Para {0}<BR/>Gracias por su registro, por favor haga clic en el siguiente enlace para completar su registro: <a href=\"{1}\" title=\"User Email Confirm\">{1}</a>", user.UserName, Url.Action("ConfirmEmail", "Account", new { Token = user.Id, Email = user.Email }, Request.Url.Scheme));
                     m.IsBodyHtml = true;
                     System.Net.Mail.SmtpClient smtp = new System.Net.Mail.SmtpClient("smtp.gmail.com");
                     smtp.Credentials = new System.Net.NetworkCredential("diorelx@gmail.com", "diorelyon19");
