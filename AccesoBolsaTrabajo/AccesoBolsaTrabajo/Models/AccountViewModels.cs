@@ -7,7 +7,7 @@ namespace AccesoBolsaTrabajo.Models
 {
     public class ExternalLoginConfirmationViewModel
     {
-        [Required]
+        //[Required]
         [Display(Name = "Correo electrónico")]
         public string Email { get; set; }
     }

@@ -5,6 +5,7 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
+using Owin.Security.Providers.LinkedIn;
 using AccesoBolsaTrabajo.Models;
 
 namespace AccesoBolsaTrabajo
@@ -57,6 +58,10 @@ namespace AccesoBolsaTrabajo
             //app.UseFacebookAuthentication(
             //   appId: "",
             //   appSecret: "");
+
+            app.UseLinkedInAuthentication(
+             clientId: "78kleemyd7lpae",
+             clientSecret: "BllH483VQhSMb4JI");
 
             //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             //{
