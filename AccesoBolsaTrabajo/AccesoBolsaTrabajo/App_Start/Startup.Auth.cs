@@ -55,19 +55,19 @@ namespace AccesoBolsaTrabajo
             //   consumerKey: "",
             //   consumerSecret: "");
 
-            //app.UseFacebookAuthentication(
-            //   appId: "",
-            //   appSecret: "");
+            app.UseFacebookAuthentication(
+               appId: "331892170615998",
+               appSecret: "71af763e401ed67a0c58e7a0cfd0e93c");
 
             app.UseLinkedInAuthentication(
              clientId: "78kleemyd7lpae",
              clientSecret: "BllH483VQhSMb4JI");
 
-            //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
-            //{
-            //    ClientId = "",
-            //    ClientSecret = ""
-            //});
+            app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
+            {
+                ClientId = "955765444809-vvk3d0ed1v66amki6hc1osuek2h331ej.apps.googleusercontent.com",
+                ClientSecret = "JKCPStiv0YhwiEd7-0e_3oef"
+            });
         }
     }
 }

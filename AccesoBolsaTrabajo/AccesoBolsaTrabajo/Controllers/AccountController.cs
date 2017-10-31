@@ -266,7 +266,11 @@ namespace AccesoBolsaTrabajo.Controllers
                 // If the user does not have an account, then prompt the user to create an account RDCA1
                 ViewBag.ReturnUrl = returnUrl;
                 ViewBag.LoginProvider = loginInfo.Login.LoginProvider;
+                // aqui se agregara la paete del cogigo de confirmacion externa ************ RDCA2
+
+
                 return View("ExternalLoginConfirmation", new ExternalLoginConfirmationViewModel { Email = loginInfo.Email });
+
             }
         }
 

@@ -97,6 +97,16 @@ namespace AccesoBolsaTrabajo.Models
         [Display(Name = "Correo electrónico")]
         public string Email { get; set; }
 
+        [Display(Name = "He leído y acepto el aviso de privacidad y los términos y condiciones de uso.")]
+        public bool Aviso { get; set; }
+
+        //[Required]
+        //[EmailAddress]
+        //[Display(Name = "Correo electrónico")]
+        //public string Email { get; set; }
+
+
+
         //[Required]
         //[EmailAddress]
         //[Display(Name = "Confirmar electrónico")]
