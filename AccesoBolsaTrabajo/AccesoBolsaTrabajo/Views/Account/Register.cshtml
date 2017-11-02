@@ -13,7 +13,7 @@
             @using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
             {
                 @Html.AntiForgeryToken()
-                <h4>Cree una cuenta nueva.</h4>
+                <h4>Cree una cuenta nueva. con tu correo o con tu telefono.</h4>
                 <hr />
                 @Html.ValidationSummary("", new { @class = "text-danger" })
 
@@ -23,6 +23,8 @@
                         @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
                     </div>
                 </div>
+
+                <p style="padding-left:34%">- O - </p>
 
                 @*<div class="form-group">
                     @Html.LabelFor(m => m.ConfirmEmail, new { @class = "col-md-2 control-label" })

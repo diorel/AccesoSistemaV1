@@ -106,6 +106,8 @@ namespace AccesoBolsaTrabajo.Controllers
             return View();
         }
 
+
+        // ************** en esta parte se añade el telefono
         //
         // POST: /Manage/AddPhoneNumber
         [HttpPost]

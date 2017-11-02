@@ -82,9 +82,60 @@ namespace AccesoBolsaTrabajo.Controllers
         [ValidateAntiForgeryToken]
         public async Task<ActionResult> Register(RegisterViewModel model)
         {
+            if (string.IsNullOrWhiteSpace(model.Email) && string.IsNullOrWhiteSpace(model.PhoneNumber))
+            {
+                ModelState.AddModelError("", "Nopuedes dejar los dos campos vacios inresa telecono o correo");
+
+            }
+            else
+            {
+
+
             if (ModelState.IsValid)
             {
-            
+                //var Correo = from[""];
+                //var correo = Convert.ToInt32(model.Email);
+
+           
+
+              
+
+                if (string.IsNullOrWhiteSpace(model.Email)) 
+                {
+                    var user1 = new ApplicationUser { UserName = model.PhoneNumber, PhoneNumber = model.PhoneNumber };
+                    var result1 = await UserManager.CreateAsync(user1, model.Password);
+                    if (result1.Succeeded)
+                    {
+
+                        // Generar el token y enviarlo
+                         //var code = await UserManager.GenerateChangePhoneNumberTokenAsync(User.Identity.GetUserId(), model.PhoneNumber);
+                        var code = 5485;
+                        if (UserManager.SmsService != null)
+                        {
+                            var message = new IdentityMessage
+                            {
+                                Destination = model.PhoneNumber,
+                                Body = "Su código de seguridad es: " + code
+                            };
+                            await UserManager.SmsService.SendAsync(message);
+                        }
+
+                        return RedirectToAction("VerifyPhone", "Account");
+
+                        //return RedirectToAction("VerifyPhoneNumber", new { PhoneNumber = model.PhoneNumber });
+
+
+
+                        //return RedirectToAction("Confirm", "Account", new { Email = user.Email });
+                        //return RedirectToAction("RegistrarNumero", "Account");
+                        
+
+                    }
+
+
+                }
+                else{ 
+
                 var user = new ApplicationUser { UserName = model.Email, Email = model.Email };
                 user.Email = model.Email;
              //   user.ConfirmedEmail = true;
@@ -104,16 +155,72 @@ namespace AccesoBolsaTrabajo.Controllers
                     smtp.Send(m);
                     return RedirectToAction("Confirm", "Account", new { Email = user.Email });
                 }
-                else
-                { 
-                AddErrors(result);
-                }
+                //else
+                //{ 
+                //AddErrors(result);
+                //}
             }
-
+            }
+            }
             // If we got this far, something failed, redisplay form
+            //return RedirectToAction("VerifyPhoneNumber2", "Account");
             return View(model);
 
+            //return RedirectToAction("AddPhoneNumber", "Account");
+
         }
+
+        [HttpGet]
+        [AllowAnonymous]
+        public ActionResult VerifyPhone( )
+        {
+            string code = "5544";
+            ViewBag.Code = code;
+            return View();
+        }
+
+
+
+        [HttpPost]
+        public ActionResult VerifyPhone( RegisterViewModel model)
+        {
+
+            var user = new ApplicationUser { PhoneNumberConfirmed = model.PhoneNumberConfirmed};
+
+            user.PhoneNumberConfirmed = true;
+
+            return RedirectToAction("Index", "Home");
+
+        }
+
+
+        ////
+        //// POST: /Manage/VerifyPhoneNumber
+        //[HttpPost]
+        //[ValidateAntiForgeryToken]
+        //public async Task<ActionResult> VerifyPhone(VerifyPhoneNumberViewModel model)
+        //{
+        //    if (!ModelState.IsValid)
+        //    {
+        //        return View(model);
+        //    }
+        //    var result = await UserManager.ChangePhoneNumberAsync(User.Identity.GetUserId(), model.PhoneNumber, model.Code);
+        //    if (result.Succeeded)
+        //    {
+        //        var user = await UserManager.FindByIdAsync(User.Identity.GetUserId());
+        //        if (user != null)
+        //        {
+        //            await SignInAsync(user, isPersistent: false);
+        //        }
+        //        return RedirectToAction("Index", new { Message = ManageMessageId.AddPhoneSuccess });
+        //    }
+        //    // If we got this far, something failed, redisplay form
+        //    ModelState.AddModelError("", "Failed to verify phone");
+        //    return View(model);
+        //}
+
+
+
 
         [AllowAnonymous]
         public ActionResult Confirm(string Email)
@@ -417,7 +524,8 @@ namespace AccesoBolsaTrabajo.Controllers
             ChangePasswordSuccess,
             SetPasswordSuccess,
             RemoveLoginSuccess,
-            Error
+            Error,
+            AddPhoneSuccess
         }
 
         private ActionResult RedirectToLocal(string returnUrl)

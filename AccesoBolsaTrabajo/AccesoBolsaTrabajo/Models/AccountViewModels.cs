@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using AccesoBolsaTrabajo.Models.Validaciones;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 
@@ -7,7 +8,9 @@ namespace AccesoBolsaTrabajo.Models
 {
     public class ExternalLoginConfirmationViewModel
     {
-        //[Required]
+       // [Required]
+
+        //[CorreoVacio]
         [Display(Name = "Correo electrónico")]
         public string Email { get; set; }
     }
@@ -75,8 +78,11 @@ namespace AccesoBolsaTrabajo.Models
         //[Display(Name = "User name")]
         //public string UserName { get; set; }
 
+        ///+++++++++++++++++++++++++aqui 
+
 
         [Required]
+        //[CorreoVacio]
         [Display(Name = "Correo electrónico")]
         [EmailAddress]
         public string Email { get; set; }
@@ -92,13 +98,18 @@ namespace AccesoBolsaTrabajo.Models
 
     public class RegisterViewModel
     {
-        [Required]
+        //[Required]
         [EmailAddress]
         [Display(Name = "Correo electrónico")]
         public string Email { get; set; }
 
         [Display(Name = "He leído y acepto el aviso de privacidad y los términos y condiciones de uso.")]
         public bool Aviso { get; set; }
+
+        [Display(Name = "PhoneNumberConfirmed")]
+        public bool PhoneNumberConfirmed { get; set; }
+
+
 
         //[Required]
         //[EmailAddress]
@@ -113,7 +124,7 @@ namespace AccesoBolsaTrabajo.Models
         //[Compare("Email", ErrorMessage = "El electrónico y el electrónico de confirmación no coinciden.")]
         //public string ConfirmEmail { get; set; }
 
-        [Required]
+        //[Required]
         [Display(Name = "Telefono")]
         public string PhoneNumber { get; set; }
 

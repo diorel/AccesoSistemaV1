@@ -463,6 +463,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Model1.edmx</DependentUpon>
     </Compile>
+    <Compile Include="Models\Validaciones\CorreoVacioAttribute.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
@@ -544,6 +545,11 @@
     <Content Include="Views\Account\Register1.cshtml" />
     <Content Include="Views\Account\RegisterUser.cshtml" />
     <Content Include="Views\Account\Confirm.cshtml" />
+    <Content Include="Views\Account\RegistrarNumero.cshtml" />
+    <Content Include="Views\Account\AddPhoneNumber.cshtml" />
+    <Content Include="Views\Account\VerifyPhoneNumber.cshtml" />
+    <Content Include="Views\Account\VerifyPhoneNumber2.cshtml" />
+    <Content Include="Views\Account\VerifyPhone.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
