@@ -1,4 +1,6 @@
-﻿using System;
+﻿using AccesoBolsaTrabajo.Models;
+using Newtonsoft.Json.Linq;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,23 +10,36 @@ namespace AccesoBolsaTrabajo.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult Index()
+        // GET: Home
+        [HttpGet]
+        public ActionResult Cargar()
         {
             return View();
         }
 
-        public ActionResult About()
+        //Este método carga los detalles  del token
+        [HttpPost]
+        public ActionResult Cargar(string Email, string Commentary)
         {
-            ViewBag.Message = "Your application description page.";
+            JObject data = new JObject();
+            data["Respuesta"] = true;
 
-            return View();
+            using (DAMSAUserEmail7Entities1 bd = new DAMSAUserEmail7Entities1())
+            {
+                try
+                {
+                    var Cosulata = bd.usp_InsertarProblema(Email, Commentary);
+                    ViewBag.Message = "error message";
+
+                }
+                catch
+                {
+                    data["Respuesta"] = false;
+                }
+            }
+            return RedirectToAction("PreguntasFrecuentes", "Account");
+
         }
 
-        public ActionResult Contact()
-        {
-            ViewBag.Message = "Your contact page.";
-
-            return View();
-        }
     }
 }

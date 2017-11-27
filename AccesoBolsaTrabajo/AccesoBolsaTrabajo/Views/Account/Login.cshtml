@@ -42,14 +42,23 @@
                     </div>
                 </div>
                 <p>
-                    @Html.ActionLink("Registrar como nuevo usuario", "Register")
+                    @Html.ActionLink("Registrar como nuevo usuario", "PreguntasFrecuentes")
                 </p>
-                @* Habilite esta opción después de habilitar la confirmación de la cuenta para la función de restablecimiento de contraseña
+                //Habilite esta opción después de habilitar la confirmación de la cuenta para la función de restablecimiento de contraseña
                     <p>
                         @Html.ActionLink("¿Ha olvidado su contraseña?", "ForgotPassword")
-                    </p>*@
+                    </p>
             }
         </section>
+        <section>
+           
+                @Html.Partial("_LoginTelefono", new ExternalLoginListViewModel { ReturnUrl = ViewBag.ReturnUrl })
+            @*@Html.Partial("_ExternalLoginsListPartial", new ExternalLoginListViewModel { ReturnUrl = ViewBag.ReturnUrl })*@
+
+
+        </section>
+
+
     </div>
 
     <div class="col-md-4">

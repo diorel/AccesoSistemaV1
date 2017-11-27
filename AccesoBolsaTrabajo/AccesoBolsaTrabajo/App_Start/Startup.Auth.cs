@@ -7,6 +7,7 @@ using Microsoft.Owin.Security.Google;
 using Owin;
 using Owin.Security.Providers.LinkedIn;
 using AccesoBolsaTrabajo.Models;
+using System.Configuration;
 
 namespace AccesoBolsaTrabajo
 {
@@ -55,19 +56,28 @@ namespace AccesoBolsaTrabajo
             //   consumerKey: "",
             //   consumerSecret: "");
 
-            app.UseFacebookAuthentication(
-               appId: "331892170615998",
-               appSecret: "71af763e401ed67a0c58e7a0cfd0e93c");
 
-            app.UseLinkedInAuthentication(
-             clientId: "78kleemyd7lpae",
-             clientSecret: "BllH483VQhSMb4JI");
+             //autentificacion facebook
+                app.UseFacebookAuthentication(
+                appId: ConfigurationManager.AppSettings["FacebookId"],
+                appSecret: ConfigurationManager.AppSettings["FacebookToken"]);
+               //appId: "331892170615998",
+               //appSecret: "71af763e401ed67a0c58e7a0cfd0e93c"
 
-            app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
-            {
-                ClientId = "955765444809-vvk3d0ed1v66amki6hc1osuek2h331ej.apps.googleusercontent.com",
-                ClientSecret = "JKCPStiv0YhwiEd7-0e_3oef"
-            });
+            //autentificacion  Linkedin
+                 app.UseLinkedInAuthentication(               
+                 clientId: ConfigurationManager.AppSettings["LinkedinId"],
+                 clientSecret: ConfigurationManager.AppSettings["LinkedinToken"]);
+
+            //autentificacion  Google
+                app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
+                {
+                    ClientId = ConfigurationManager.AppSettings["GoogleId"],
+                    ClientSecret = ConfigurationManager.AppSettings["GoogleToken"]                    
+                });
+            //ClientId = "955765444809-vvk3d0ed1v66amki6hc1osuek2h331ej.apps.googleusercontent.com",
+            //ClientSecret = "JKCPStiv0YhwiEd7-0e_3oef"
+
         }
     }
 }

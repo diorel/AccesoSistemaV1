@@ -1,9 +1,39 @@
 ﻿@using AccesoBolsaTrabajo.Models
 
+
+
 @model AccesoBolsaTrabajo.Models.RegisterViewModel
 @{
     ViewBag.Title = "Registrarse";
 }
+
+
+
+@*<script src="https://lipis.github.io/bootstrap-sweetalert/lib/sweet-alert.js"></script>*@ 
+
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script> 
+<link href="~/Content/sweetalert/sweet-alert.css" rel="stylesheet" />
+
+
+
+<script type="text/javascript">
+	function validacion()
+	{
+		
+	    var Aviso = document.getElementById('aviso').value;
+
+	    if (Aviso == "")
+		{
+	        swal("Good job", "You success to Login", "success");
+	    }
+
+	    else {
+	        sweetAlert("Ooops...", "Something went wrong!", "error");
+	    }
+	
+	}
+</script>
+
 
 <h2>@ViewBag.Title.</h2>
 <div class="row">
@@ -53,32 +83,46 @@
                         @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control" })
                     </div>
                 </div>
-
                     <div class="form-group">
                     <div class="col-md-offset-2 col-md-10">
-                        <div class="checkbox">
-                            @Html.CheckBoxFor(m => m.Aviso)
+                        <div class="checkbox" id="Aviso">
+                            @Html.CheckBoxFor(m => m.Aviso, new { id = "aviso" })
                             @Html.LabelFor(m => m.Aviso)
+                            @*@Html.ValidationMessageFor(m => m.Aviso)*@
                         </div>
                     </div>
                 </div>
-
-
                 <div class="form-group">
                     <div class="col-md-offset-2 col-md-10">
                         <input type="submit" class="btn btn-default" value="Registrarse" />
+                        @*<button onclick="validacion();">Login</button>*@
+               
                     </div>
                 </div>
-
             }
         </section>
 
+        <p>
+            @Html.ActionLink("Preguntas frecuentes", "PreguntasFrecuentes")
+        </p>
+
+
+
 </div>
+
+
+
+
+
         <div class="col-md-4">
             <section id="socialLoginForm">
                 @Html.Partial("_ExternalLoginsListPartial", new ExternalLoginListViewModel { ReturnUrl = ViewBag.ReturnUrl })
             </section>
         </div>
+
+
+
+   
 
 
     </div>

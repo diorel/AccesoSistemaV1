@@ -1,0 +1,35 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title> Create </title>
+
+
+
+    @*<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>*@
+
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+    <link href="~/Content/sweetalert/sweet-alert.css" rel="stylesheet" />
+
+    <script type="text/javascript">
+        swal("Good job!", "You clicked the button!", "success")
+     
+    
+
+
+    </script>
+</head>
+<body>
+    @using (Html.BeginForm("Create", "Home", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+    {
+        @Html.ValidationSummary(true)
+
+    
+    }
+    <div>
+        @Html.ActionLink("Back to List", "Index")
+    </div>
+</body>
+</html>  
